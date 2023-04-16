@@ -4,6 +4,9 @@
 ### Task - 01 : Create a To-Do list App
 Demo : https://task3todolistapp.netlify.app
 
+### Task - 02 : Create a React App
+Demo : https://task2-reactapp.netlify.app
+
 
 ### Task - 03 : Create a Registration Form and display data in the same page
 Demo : https://task3-registration.netlify.app/
